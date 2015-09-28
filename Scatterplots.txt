@@ -1,0 +1,8 @@
+## Questions on Scatterplots and Linear Relationships
+
+Question 1: Interpreting a Scatterplot
+Watch the TED talk on women and babies here http://www.ted.com/talks/lang/en/hans_rosling_religions_and_babies.html
+This is a remarkable illustration of how a simple tool like a scatterplot can be used to understand a phenomenon. Discuss the relationship between income and fertility rate (children per woman) , using the four features of the scatterplot we discussed: form of relationship, direction of relationship, strength of relationship, and outliers.
+
+Question 2: Understanding Correlation
+(a) Suppose a store reduced its entire inventory to half price. What would be the correlation between original prices and sale prices? Explain your thinking.(b) The regression equation that predicts desired weight from weight for our class was desired wt = 1.02 * wt -5.5. The correlation between weight and desired weight was 0.928. Suppose the weight and desired wt had been reported in kilograms rather than pounds. What would happen to the correlation? What would happen to the regression equation? Explain your thinking.

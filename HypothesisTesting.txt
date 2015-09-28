@@ -1,0 +1,9 @@
+## Questions on Hypothesis Testing
+
+## Interpreting Tests
+This link http://nces.ed.gov/nationsreportcard/NDEGraphicsGenerator/scmaphost.aspx?TableID=24207takes you to a graphical display of results from the NAEP statistics exam for the 2009 Statistics and Data Analysis Assessment of U.S. 12 graders. Hover your mouse over the states that are colored on the map and observe the legend that appears. Based on what we have discussed about NAEP, explain what hypotheses were tested for each of the states, and what the statements mean about the outcome of those hypothesis tests.
+
+## Test for two regression slopesSuppose we have a regression models to predict a person’s desired weight from his or her actual weight for two samples of male students, in two different semesters. We know that each sample's regression coefficients estimates its own intercept and slope for the model linking weight and desired weight for the semester of the sample. We saw that both semesters showed that weight was strongly predictive of desired weight. Is there evidence to suggest that the population slopes of the two models in the two semesters are different? Use the data to answer this question in a sensible way. 
+
+
+## Relationship between correlation and slopeOur book says that a test of the slope = 0 is the same as a test that the population correlation ρ = 0. Explain (intuitively or otherwise) why this would be true.
