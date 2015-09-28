@@ -1,0 +1,20 @@
+Subject: Descriptive Statistics and The Normal Distribution
+
+Question 1: Understanding shapes of Distributions
+Predict what you think the shape of the distribution of desired weight for students in this class looks like. Explain why you think it will look that way.
+
+Question 2: Calculating percentiles from the Normal distribution
+Some colleges allow a student to submit either the SAT or ACT to be considered for admission. Fewer students take the ACT than the SAT, so you may not be familiar with it. There are ACT subtests in various subjects, including English and math. On each subtest, the scores range from 1 to 36. The score distribution of each subtest is modeled well with a normal distribution. Here is a link to the ACT profile report  for 2012:
+http://www.act.org/newsroom/data/2012/pdf/profile/National2012.pdf 
+
+This report describes how 2012 high school graduates fared on the ACT. Go to Table 2.1 on p. 12.  This table shows the cumulative distribution of ACT scores in 2012. Take a look at the English scores. It shows, for example,  that 74% of students scored a 24 or lower on the English ACT, and 24% scored a 15 or lower.
+(a) What do you have to score on the English ACT to score at the 99th percentile?
+(b) Approximately what is the mean of the English ACT distribution? Explain how you know.  (Remember that the scores are normally distributed.)
+(c) Approximately what is the standard deviation of the English ACT distribution? Explain how you know.
+
+Question 3: Comparing two different Normally distributed populations
+The composite ACT scores (an average of all subtests) for American students in recent years has a normal distribution with mean of 21.1 and a standard deviation of 4.7. SAT scores (verbal + math) are also normally distributed with a mean of 1030 and a standard deviation of 209. Some colleges accept either score in application for admission. But since there are two different scales, they have to have a way to compare applicants who took different tests.
+The provost announced at the beginning of the year that the new incoming freshman who took the SAT had a mean score of 1300 this year. He didn't tell us the mean ACT composite score for those incoming freshman taking the ACT. If you had to guess what it would be, what would you guess? Explain your reasoning.
+You may assume that the ACT composite and the total SAT measure approximately the same kind of aptitude/knowledge, and that the same kinds of students take each. (In other words, students taking the SAT have the same distribution of aptitude as those taking the ACT.)
+
+
